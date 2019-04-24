@@ -40,12 +40,12 @@ let isOverHeart2;
 let isOverHeart3;
 let isOverHeart4;
 
-//creating variables for interaction in Animation4
+//creating variables for interaction in Animation3
 let isOverCircle4;
 let isOverCircle5;
 let isOverCircle6;
 
-//creating variables for interaction in Animation5
+//creating variables for interaction in Animation4
 let isOverStar;
 let isOverStar2;
 let isOverStar3;
