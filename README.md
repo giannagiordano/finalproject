@@ -1,3 +1,7 @@
+Name: Gianna Giordano
+
+Date: April 25th, 2019
+
 # My final project
 ------
 
