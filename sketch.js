@@ -582,7 +582,7 @@ function Animation5()
         //Interaction with background
         if (mouseIsPressed){
             background(starrynight);
-            for (var i=0; i < 12; i++){
+            for (var i=0; i < 50; i++){
                 image(shiningstar, i*100, 10, img.width/7, img.height/5);
             }
         }else{
